@@ -1,0 +1,9 @@
+C:\Users\s-r-grass\Desktop\requiro\Requiro\bin\Debug\Requiro.exe
+C:\Users\s-r-grass\Desktop\requiro\Requiro\bin\Debug\Requiro.pdb
+C:\Users\s-r-grass\Desktop\requiro\Requiro\obj\x86\Debug\Requiro.csprojResolveAssemblyReference.cache
+C:\Users\s-r-grass\Desktop\requiro\Requiro\obj\x86\Debug\Requiro.ExceptionForm.resources
+C:\Users\s-r-grass\Desktop\requiro\Requiro\obj\x86\Debug\Requiro.Mainform.resources
+C:\Users\s-r-grass\Desktop\requiro\Requiro\obj\x86\Debug\Requiro.Properties.Resources.resources
+C:\Users\s-r-grass\Desktop\requiro\Requiro\obj\x86\Debug\Requiro.csproj.GenerateResource.Cache
+C:\Users\s-r-grass\Desktop\requiro\Requiro\obj\x86\Debug\Requiro.exe
+C:\Users\s-r-grass\Desktop\requiro\Requiro\obj\x86\Debug\Requiro.pdb
